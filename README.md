@@ -1,7 +1,7 @@
 <h1 align="center">||Mad Lib: Max and Joseph's Adventure||</h1>
 <div align="center">
 <img src="https://github.com/MaxBrockbank.png" width="200px" height="auto" >
-<img src="https://github.com/GiuntaJC" width="200px" height="auto" >
+<img src="https://github.com/GiuntaJC.png" width="200px" height="auto" >
 
 </div>
 <p align="center">Authored by Max Brockabnk and Joseph Giunta</p>
