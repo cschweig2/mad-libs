@@ -13,6 +13,7 @@ Mad lib created to test DOM manipulation and creating HTML forms.
 ## Set-up Instructions
 1. Clone this repo to your desktop
 2. Open index.html in the browser of your choice.
+* <em>Alternatively</em> you can just click <a href="https://maxbrockbank.github.io/mad-lib/">HERE</a>.
 
 ## Technologies Used
 * HTML
